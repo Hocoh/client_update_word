@@ -1,0 +1,28 @@
+.formLabel {
+  display : block ;
+  margin : auto;
+  margin-top : 1em;
+  
+  }
+  input[name="Submit"]{
+    border : solid;
+    border-color: #656666;
+    border-width: 0.1em;
+    width : 10rem;
+    height: 3rem ;
+    color:  black ;
+    background-color:  #ffff66 ;
+     font-family: 'Tajawal', sans-serif;
+    font-size: 1.5em;
+    font-weight: 800;
+  }
+  
+  input[name="Submit"]{
+    cursor : pointer; 
+    margin-top: 1.2%;
+    margin-left:42.5%;
+    padding-top : 10px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }

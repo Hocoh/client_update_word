@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Tajawal");
+
+ #record,  #stop {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+
+      margin: auto;
+      border: solid;
+      border-color: #656666;
+      border-width: 1px;
+      margin-left: 42.5%;
+      margin-top: 1em;
+      width: 10rem;
+      height: 3rem;
+      background-color: white;
+      font-family: 'Tajawal', sans-serif;
+      font-size: 1.5em;
+
+
+}
+#recordword {
+padding-top : 0.3em;
+margin-right : 0.35em;
+}
+button:hover{
+  cursor : pointer;
+}
+#circle{
+  display: inline-block;
+    margin: 0;
+    padding: 0;
+    background: red;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
+
+#recordList {
+font-size : 2.5em;
+margin-bottom: 1%;
+}
